@@ -5,6 +5,6 @@ public class Main
     public static void main(String[] args)
     {
         SessionFactory sessionFactory;
-        System.out.println("Hello world at master branch!!!");
+        System.out.println("Hello world at new branch!!!");
     }
 }
