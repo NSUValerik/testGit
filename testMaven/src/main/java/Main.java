@@ -6,5 +6,7 @@ public class Main
     {
         SessionFactory sessionFactory;
         System.out.println("Hello world!!!");
+
+        System.out.println("Create new branch");
     }
 }
