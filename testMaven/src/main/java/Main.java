@@ -8,5 +8,7 @@ public class Main
         System.out.println("Hello world!!!");
 
         System.out.println("Master branch");
+
+        System.out.println("Master branch 2");
     }
 }
