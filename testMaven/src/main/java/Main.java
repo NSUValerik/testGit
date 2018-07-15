@@ -11,5 +11,7 @@ public class Main
 
         System.out.println("Create new branch");
         System.out.println("Create new branch 2");
+
+        System.out.printf("Create new branch 3");
     }
 }
