@@ -9,6 +9,8 @@ public class Main
 
         System.out.println("Master branch");
 
+        System.out.println("Master branch 2");
+
         System.out.println("Create new branch");
         System.out.println("Create new branch 2");
 
