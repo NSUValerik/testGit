@@ -8,5 +8,6 @@ public class Main
         System.out.println("Hello world!!!");
 
         System.out.println("Create new branch");
+        System.out.println("Create new branch 2");
     }
 }
