@@ -13,5 +13,7 @@ public class Main
         System.out.println("Create new branch 2 dsfiew");
 
         System.out.printf("Create new branch 3");
+
+        System.out.println("new commit");
     }
 }
