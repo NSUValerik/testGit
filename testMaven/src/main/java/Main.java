@@ -7,12 +7,10 @@ public class Main
         SessionFactory sessionFactory;
         System.out.println("Hello world!!!");
 
-        System.out.println("Master branch change");
+        System.out.println("Master change change branch");
 
-        System.out.println("Master branch 2");
-
-        System.out.println("Create new branch");
-        System.out.println("Create new branch 2");
+        System.out.println("Create new branch lala ");
+        System.out.println("Create new branch 2 dsfiew");
 
         System.out.printf("Create new branch 3");
     }
